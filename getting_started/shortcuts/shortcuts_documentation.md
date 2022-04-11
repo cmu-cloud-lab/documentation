@@ -1,7 +1,7 @@
-# Shortcuts
-
 [HOME](/README.md)
 
+
+# Shortcuts
 
 ## Keyboard
 
@@ -13,5 +13,7 @@
 | CTRL + Scroll | Zoom in / out in documentation.                                                             |
 |SHIFT + DOWN_ARROW | Add remainder of current line to selection. Press DOWN_ARROW again to add additional lines. |
 |SHIFT + RIGHT_ARROW | Add next character to selection. Press RIGHT_ARROW again to add additional characters.      |
+
+---
 
 [HOME](/README.md)
