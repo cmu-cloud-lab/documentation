@@ -52,11 +52,11 @@ PlotObject[myExperimentqPCR[Data]]
 ```
 
 Incorrect Quantification Cycle
-<img src="/images/ExperimentqPCR.ex001.plot001.png" alt="Analysis 1" height="600"/>
+<img src="images/ExperimentqPCR.ex001.plot001.png" alt="Analysis 1" height="600"/>
 
 
 Corrected Quantification Cycle
-<img src="/images/ExperimentqPCR.ex001.plot002.png" alt="Analysis 2" height="600"/>
+<img src="images/ExperimentqPCR.ex001.plot002.png" alt="Analysis 2" height="600"/>
 
 
 
