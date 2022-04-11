@@ -11,3 +11,6 @@ these pages, find any mistakes, or have an idea of how to make this website bett
 
 ## Assays
 - [qPCR](/assays/ExperimentqPCR/ExperimentqPCR_documentation.md)
+
+---
+<span style="font-size:4em;">&copy 2022 Ryan Nelson</span>
