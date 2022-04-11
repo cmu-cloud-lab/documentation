@@ -13,5 +13,4 @@ these pages, find any mistakes, or have an idea of how to make this website bett
 - [qPCR](/assays/ExperimentqPCR/ExperimentqPCR_documentation.md)
 
 ---
-<sub><style="font-size:4;">©2022 Ryan Nelson. All rights reserved.</style>
-</sub>
+<sub>©2022 Ryan Nelson. All rights reserved.</sub>
