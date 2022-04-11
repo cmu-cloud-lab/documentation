@@ -1,6 +1,6 @@
 # ExperimentqPCR
 
-[HOME](README.md)
+[HOME](/README.md)
 
 ### Notes
 - Default settings can easily lead to a failed experiment if they don't match the chosen Master Mix. Confirm settings against the Master Mix protocol to be sure.
@@ -60,4 +60,4 @@ Corrected Quantification Cycle
 
 
 
-[HOME](README.md)
+[HOME](/README.md)
