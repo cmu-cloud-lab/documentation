@@ -15,5 +15,6 @@
 |SHIFT + RIGHT_ARROW | Add next character to selection. Press RIGHT_ARROW again to add additional characters.      |
 
 ---
-
 [HOME](/README.md)
+
+<sub>©2022 Ryan Nelson. All rights reserved.</sub>

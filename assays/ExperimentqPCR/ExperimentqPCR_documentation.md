@@ -61,5 +61,6 @@ Corrected Quantification Cycle
 <img src="images/ExperimentqPCR.ex001.plot002.png" alt="Analysis 2" height="600"/>
 
 ---
-
 [HOME](/README.md)
+
+<sub>©2022 Ryan Nelson. All rights reserved.</sub>
