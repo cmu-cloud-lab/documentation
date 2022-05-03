@@ -7,7 +7,7 @@ of all skill levels. We rely on *you* to make this documentation useful. If you 
 these pages, find any mistakes, or have an idea of how to make this website better, we'd love to hear from you!
 
 ## Getting Started
-- [Shorcuts](/getting_started/shortcuts/shortcuts_documentation.md)
+- [Shortcuts](/getting_started/shortcuts/shortcuts_documentation.md)
 
 ## Assays
 - [qPCR](/assays/ExperimentqPCR/ExperimentqPCR_documentation.md)
